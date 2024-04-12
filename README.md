@@ -7,7 +7,10 @@ Esse é um projeto desafio da Alura, em que criamos um programa seguindo o model
 
 1. Faça o download do projeto
 2. Modifique os diretórios conforme for necessário para às atender as suas necessidades em applications.properties
-3. Crie um banco de dados com o nome escolhido nessa linha
+3. Crie um banco de dados com o nome escolhido nessa seção
+  ![image](https://github.com/Corygoncrg/Desafio-screenmatch-quotes/assets/147842564/f43b8141-e33f-4509-99f4-9de57c02021c)
+
+
 4. preencha o seu banco de dados com citações. Para popular rapidamente para testes é possível usar esse [script fornecido pela Alura](https://gist.github.com/jacqueline-oliveira/169494892c52ca4d7cd4c6caecd799d8) diretamente no seu banco de dados
 
 ## Função
